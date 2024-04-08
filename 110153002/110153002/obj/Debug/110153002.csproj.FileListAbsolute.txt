@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\110153002\110153002\bin\Debug\110153002.exe.config
+C:\Users\user\Documents\GitHub\110153002\110153002\bin\Debug\110153002.exe
+C:\Users\user\Documents\GitHub\110153002\110153002\bin\Debug\110153002.pdb
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\110153002.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\110153002.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\_110153002.Form1.resources
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\_110153002.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\110153002.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\110153002.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\110153002.exe
+C:\Users\user\Documents\GitHub\110153002\110153002\obj\Debug\110153002.pdb
